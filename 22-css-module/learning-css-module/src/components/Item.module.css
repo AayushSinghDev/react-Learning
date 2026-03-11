@@ -1,0 +1,7 @@
+li.kgItems {
+  --bs-list-group-bg: azure;
+}
+.kgSpan {
+  font-weight: 500;
+  color: cornflowerblue;
+}
