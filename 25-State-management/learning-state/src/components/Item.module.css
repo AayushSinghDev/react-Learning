@@ -1,0 +1,16 @@
+.item {
+  --bs-list-group-color: darkblue;
+  font-size: 23px;
+  text-decoration: none;
+  --bs-list-group-bg: rgb(78, 229, 198);
+  font-weight: 700;
+}
+
+.button {
+  float: right;
+  color: darkblue !important;
+  font-weight: 800 !important;
+}
+.active {
+  background-color: red;
+}

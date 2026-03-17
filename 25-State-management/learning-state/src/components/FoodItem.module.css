@@ -1,0 +1,5 @@
+.foodItems {
+  background-color: aquamarine;
+  --bs-list-group-border-radius: none;
+  border-radius: 0 0 5px 5px;
+}
